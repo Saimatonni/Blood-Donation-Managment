@@ -64,7 +64,7 @@ include('header/navadmin.php');
 
 
 
-<h1 align="center">Add a Brach</h1>
+<h1 align="center">Add Blood Donation Event</h1>
     <br />
 
 	<form style="text-align:justify;font-size:18px;color:#FF5733" method="post"> 

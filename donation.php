@@ -40,7 +40,7 @@ h1{
 </head>
 <body>
 	<br>
-<h1 align="center">Requested Blood List</h1>
+<h1 align="center">Blood List</h1>
 
 <table id="customers" style="margin: 0px auto;">
   <tr>
