@@ -7,5 +7,6 @@ The purpose of this system are :
      ->Give chances to the public to discover more about the blood donor.
      
 E-R diagram : 
+<img src="https://github.com/Saimatonni/Charity-and-Pet-Care/blob/master/iu_ss/splash.jpg" height="400" />
 
 
